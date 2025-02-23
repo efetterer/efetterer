@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eleanor Fetterer
-- I'm studying aerospace engineering and physics at the University of Virginia
+- I'm studying aerospace engineering and physics at the University of Virginia!
 
 <!---
 efetterer/efetterer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
